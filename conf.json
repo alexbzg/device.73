@@ -1,0 +1,5 @@
+{ "site": { "root" : "/var/www/device.73",
+            "port" : 7373 },
+  "pb": { "port" : 7374 },
+  "ws": { "port" : 7375 }
+}
